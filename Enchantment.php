@@ -97,9 +97,10 @@ class Enchantment{
 	const TYPE_BOW_INFINITY = 22;
 	const TYPE_FISHING_FORTUNE = 23;
 	const TYPE_FISHING_LURE = 24;
-    // Custom
+    // Custom 
        const TYPE_WEAPON_CRINGE_NESS = 30;
       // Custom
+
 	const RARITY_COMMON = 0;
 	const RARITY_UNCOMMON = 1;
 	const RARITY_RARE = 2;
