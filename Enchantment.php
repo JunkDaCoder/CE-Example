@@ -261,6 +261,10 @@ class Enchantment{
 				return 2;
 			case self::TYPE_BOW_INFINITY:
 				return 1;
+                     //Custom
+                     case self::TYPE_WEAPON_CRINGE_NESS:
+                               return 5;
+                         //Custom
 		}
 		return 0;
 	}
