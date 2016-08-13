@@ -310,7 +310,13 @@ class Enchantment{
 			case self::TYPE_FISHING_FORTUNE:
 			case self::TYPE_FISHING_LURE:
 				return 3;
-		}
+                        //Custom 
+           case self::TYPE_WEAPON_CRINGE_NESS:
+		return 5;
+//Custom
+
+
+        }
 		return 999;
 	}
 
